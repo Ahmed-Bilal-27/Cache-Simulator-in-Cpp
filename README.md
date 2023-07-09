@@ -2,7 +2,6 @@
 This was my semester project for course Operating Systems. It was implemented in C++ and executed on Ubuntu Operating System.
 
 1. Implemented cache using structure ‘cacheTable’ with following 4 block placement strategies:
-
     1.1. Direct Map with 3rd command line argument of ‘1’.
     1.2. 2-Way Set Associative with 3rd command line argument of ‘2’.
     1.3. 4-Way Set Associative with 3rd command line argument of ‘4’.
