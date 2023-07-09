@@ -1,1 +1,2 @@
 # Cache-Simulator-in-Cpp
+This was my semester project for course Operating Systems. This a cache simulator which provides direct map, two-way associative, four-way associative and eight-way associative mapping corresponding to 1, 2, 4 and 8 as command line arguments respectively. It was implemented in C++ and executed on Ubuntu Operating System. It uses structure to create cache table. To access the values in sample file the 'samples.txt' must be present in the same directory in which the cpp file resides or you should put the required path in the code.
